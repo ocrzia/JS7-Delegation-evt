@@ -10,4 +10,4 @@ Premiers exercices de Javascript
 
 ## 🖼️ Aperçu visuel (optionnel)
 
-[Live Demo](https://ocrzia.github.io/JS6-Shopping-list/)
+[Live Demo](https://ocrzia.github.io/JS7-Delegation-evt/)
